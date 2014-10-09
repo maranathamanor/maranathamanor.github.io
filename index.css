@@ -18,6 +18,13 @@
   background-size: cover;
 }
 
+.jumbotron-donate {
+  background-image: url("http://i.imgur.com/nRurlOH.png");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .jumbotron .container {
   position: relative;
   top:50px;
