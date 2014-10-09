@@ -57,7 +57,7 @@
   color: #00b0ff;
 }
 
-.neighborhood-guides h2 {
+.middle-blurb h2 {
    font-family: 'Dawning of a New Day', cursive;
     color: #393c3d;
     font-size: 42px;
@@ -65,7 +65,7 @@
 }
 
 .middle-blurb {
-    font-family: 'Dawning of a New Day', cursive;
+    font-family: 'Playfair Display', serif;
     background-color: #efefef;
     border-bottom: 1px;
     border-style: solid;
