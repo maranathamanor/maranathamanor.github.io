@@ -57,21 +57,19 @@
   color: #00b0ff;
 }
 
-.middle-blurb {
-    font-family: 'Dawning of a New Day', cursive;
-    background-color: #efefef;
-    border-bottom: 1px;
-    border-style: solid;
-    border-color: #dbdbdb;
-}
-
 .neighborhood-guides h2 {
    font-family: 'Dawning of a New Day', cursive;
     color: #393c3d;
     font-size: 42px;
     text-align: left;
 }
-
+.middle-blurb {
+    font-family: 'Playfair Display', serif;
+    background-color: #efefef;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+}
 .neighborhood-guides p {
 font-family: 'Playfair Display', serif;
 font-size: 15px;
