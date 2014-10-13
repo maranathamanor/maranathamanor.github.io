@@ -1,5 +1,4 @@
 .bg {
-  background-image: url('http://i.imgur.com/DHDuCUq.png');
   background-position: top-fixed;
   width: 100%;
   height: 500px; /*same height as jumbotron */
@@ -9,6 +8,7 @@
 }
 
 .jumbotron {
+    background-image: url('http://i.imgur.com/DHDuCUq.png');
     margin-bottom: 0px;
     background-position: 0% 25%;
     background-size: cover;
