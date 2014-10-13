@@ -9,12 +9,11 @@
 
 .jumbotron {
     background-image: url('http://i.imgur.com/xSXvGyg.jpg');
-    margin-bottom: 0px;
+    size: 500px;
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
-    text-shadow: black 0.3em 0.3em 0.3em;
+
 }
 
 .jumbotron h1 {
@@ -22,7 +21,7 @@
   font-size: 48px;  
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  margin-top: 275px;
+  margin-top: 350px;
 }
 
 .jumbotron p {
