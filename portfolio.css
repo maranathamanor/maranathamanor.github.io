@@ -76,9 +76,8 @@ body {
 /* Main marketing message and sign up button */
 .jumbotron {
   background-image:url('http://i.imgur.com/DHDuCUq.png');   /*Me Face-->http://i.imgur.com/QiAupDM.png*/
-  height: 500px;
+  height: auto;
   background-repeat: no-repeat;
-  background-size: cover;
   text-align: center;
   border-bottom: 5px solid #e5e5e5;
 }
