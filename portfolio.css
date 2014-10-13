@@ -19,6 +19,7 @@
   font-family: 'Cabin', sans-serif;
     font-size: 34px;
     padding-bottom: 15px;
+    margin-top: -10px;
   }
 
 .neighborhood-guides p {
@@ -28,7 +29,7 @@ letter-spacing: 1.5px;
 margin-bottom: 13px;
 font-family: 'Noto Sans', sans-serif;
 font-variant: thin;
-margin-top: -10px;
+
 }
 
 
