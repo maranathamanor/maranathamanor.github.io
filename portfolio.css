@@ -76,16 +76,13 @@ body {
 /* Main marketing message and sign up button */
 .jumbotron {
   background-image:url('http://i.imgur.com/DHDuCUq.png');   /*Me Face-->http://i.imgur.com/QiAupDM.png*/
-  height: auto;
+  height: 500px;
   background-repeat: no-repeat;
+  background-size: auto;
   text-align: center;
   border-bottom: 5px solid #e5e5e5;
 }
 
-.jumbotronwidth
-{
-max-width:100%;
-}
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
