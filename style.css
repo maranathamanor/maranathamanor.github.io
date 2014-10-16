@@ -34,6 +34,7 @@ section.module.parallax {
 section.module.parallax h1 {
   font-family: "Cabin", sans-serif;
   padding-top: 100px;
+  letter-spacing: 10px;
   color: rgba(255, 255, 255, 0.8);
   font-size: 48px;
   line-height: 600px;
