@@ -32,6 +32,7 @@ section.module.parallax {
   background-size: cover;
 }
 section.module.parallax h1 {
+  font-family: "Cabin", sans-serif;
   padding-top: 100px;
   color: rgba(255, 255, 255, 0.8);
   font-size: 48px;
