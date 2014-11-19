@@ -56,10 +56,10 @@ section.module.parallax-2 {
 */
 @media all and (min-width: 600px) {
   section.module h2 {
-    font-size: 42px;
+    font-size: 24px;
   }
   section.module p {
-    font-size: 14px;
+    font-size: 11px;
   }
   section.module.parallax h1 {
     font-size: 96px;
