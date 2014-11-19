@@ -7,12 +7,11 @@ section.module:last-child {
 section.module h2 {
   margin-bottom: 40px;
   font-family: "Cabin", sans-serif;
-  font-size: 24px;
+  font-size: 28px;
 }
 section.module p {
   margin-bottom: 40px;
   font-size: 12px;
-  font-weight: 300;
   font-family: "Noto Sans"; sans-serif;
 }
 section.module p:last-child {
@@ -57,10 +56,11 @@ section.module.parallax-2 {
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 28px;
+    font-family: "Cabin", sans-serif;
   }
   section.module p {
     font-size: 12px;
-    letter-spacing: 1.25px;
+    font-family: "Noto Sans"; sans-serif;
   }
   section.module.parallax h1 {
     font-size: 96px;
