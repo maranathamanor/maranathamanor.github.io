@@ -42,10 +42,10 @@ section.module.parallax h1 {
 }
 
 .fade {
-   opacity: .75;
-   transition: opacity .5s ease-in-out;
-   -moz-transition: opacity .5s ease-in-out;
-   -webkit-transition: opacity .5s ease-in-out;
+   opacity: .55;
+   transition: opacity .4s ease-in-out;
+   -moz-transition: opacity .4s ease-in-out;
+   -webkit-transition: opacity .4s ease-in-out;
    }
 
    .fade:hover {
